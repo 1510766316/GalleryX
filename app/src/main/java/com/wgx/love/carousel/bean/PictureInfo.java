@@ -1,4 +1,4 @@
-package com.wgx.love.galleryx.bean;
+package com.wgx.love.carousel.bean;
 
 import android.graphics.drawable.Drawable;
 
